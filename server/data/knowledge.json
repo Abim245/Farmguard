@@ -1,0 +1,72 @@
+[
+  {
+    "crop": "maize",
+    "topic": "planting time",
+    "text": "In southern Nigeria maize is usually planted in two seasons: early rains (March to April) and late rains (August to September). In the northern savanna, plant once the rains are well established (about May to July). Do not plant on the very first rain, because a dry spell may follow and kill the seedlings.",
+    "tags": ["planting", "season", "when", "rain", "time"],
+    "source": "TO VERIFY: IITA / local extension calendar"
+  },
+  {
+    "crop": "maize",
+    "topic": "spacing and seed rate",
+    "text": "A common spacing is 75 cm between rows and 25 cm between plants, with 1 to 2 seeds per hole. Plant 3 to 5 cm deep. Use certified or improved seed where possible.",
+    "tags": ["spacing", "planting", "seed", "depth"],
+    "source": "TO VERIFY: IITA / extension guide"
+  },
+  {
+    "crop": "maize",
+    "topic": "fall armyworm",
+    "text": "Signs of fall armyworm include ragged holes in young leaves and sawdust-like droppings inside the leaf whorl. Check fields early and often. Handpick small infestations. Do not spray chemicals without advice. Contact your agricultural extension worker quickly if damage spreads.",
+    "tags": ["pest", "worm", "holes", "leaves", "damage"],
+    "source": "TO VERIFY: FAO fall armyworm guidance"
+  },
+  {
+    "crop": "maize",
+    "topic": "yellow leaves",
+    "text": "Yellowing that starts at the tip of older leaves and moves in a V shape along the midrib often points to low nitrogen. Yellow stripes on young leaves can point to other causes such as disease or other nutrient problems. Because several problems look alike, ask an extension worker to confirm before applying fertilizer or chemicals.",
+    "tags": ["yellow", "deficiency", "nitrogen", "fertilizer", "leaves"],
+    "source": "TO VERIFY: extension guide"
+  },
+  {
+    "crop": "cassava",
+    "topic": "planting",
+    "text": "Plant cassava at the start of the rainy season using healthy, mature stem cuttings about 20 to 30 cm long with several nodes. Plant them flat or slanted into well-loosened soil. A common spacing is 1 m by 1 m. Use cuttings from healthy plants only.",
+    "tags": ["planting", "cuttings", "spacing", "season", "when"],
+    "source": "TO VERIFY: IITA cassava guide"
+  },
+  {
+    "crop": "cassava",
+    "topic": "cassava mosaic disease",
+    "text": "Cassava mosaic disease shows as yellow-green patches, twisted or distorted leaves and stunted growth. It spreads through infected cuttings and whiteflies. Use clean cuttings from healthy plants, plant resistant varieties where available, and remove and destroy badly infected plants.",
+    "tags": ["disease", "mosaic", "leaves", "yellow", "twisted", "stunted"],
+    "source": "TO VERIFY: IITA cassava mosaic disease"
+  },
+  {
+    "crop": "tomato",
+    "topic": "early blight",
+    "text": "Early blight causes dark brown spots with ring patterns, usually first on older lower leaves, which may then yellow and drop. Remove infected leaves, avoid watering the leaves, stake plants for airflow, and rotate crops each season. Ask an extension worker about suitable treatments.",
+    "tags": ["disease", "spots", "leaves", "brown", "blight"],
+    "source": "TO VERIFY: extension / university guide"
+  },
+  {
+    "crop": "tomato",
+    "topic": "yellow leaves",
+    "text": "Yellow tomato leaves can come from overwatering, poor drainage, nutrient shortage, pests or disease. Check the pattern: lower leaves only, whole plant, or spots. Check soil moisture and look under the leaves for insects. If it spreads, show a sample to an extension worker.",
+    "tags": ["yellow", "leaves", "water", "deficiency", "problem"],
+    "source": "TO VERIFY: extension guide"
+  },
+  {
+    "crop": "tomato",
+    "topic": "blossom end rot",
+    "text": "Blossom end rot appears as a dark, sunken patch at the bottom of the fruit. It is linked to uneven watering and poor calcium uptake. Water regularly rather than in large irregular amounts and mulch around plants to hold soil moisture.",
+    "tags": ["fruit", "rot", "dark", "water", "calcium"],
+    "source": "TO VERIFY: extension guide"
+  },
+  {
+    "crop": "general",
+    "topic": "preparing for low rainfall",
+    "text": "To prepare for a dry period: mulch with dry grass or crop residue to hold moisture, weed early so weeds do not take water, choose early-maturing or drought-tolerant varieties, avoid planting too much area, and give priority to your best plots. Plan planting dates around reliable rain, not the first shower.",
+    "tags": ["drought", "dry", "low rainfall", "water", "mulch", "climate"],
+    "source": "TO VERIFY: FAO climate-smart agriculture"
+  }
+]
